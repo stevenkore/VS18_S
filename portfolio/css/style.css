@@ -1,4 +1,4 @@
-#põhiosa img {
+#pohiosa img {
     width: 100%;
     height: 100%;
 }
@@ -8,11 +8,11 @@
     background: #000;
 }
 
-#põhiosa .port-item {
+#pohiosa .port-item {
     width: 30%;
 }
 
-#põhiosa .port-item:hover {
+#pohiosa .port-item:hover {
     opacity: 0.8;
     cursor: pointer;
 }
