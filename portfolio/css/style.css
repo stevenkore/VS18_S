@@ -8,11 +8,11 @@
     background: #000;
 }
 
-#main-header .port-item {
+#põhiosa .port-item {
     width: 30%;
 }
 
-#main-header .port-item:hover {
+#põhiosa .port-item:hover {
     opacity: 0.8;
     cursor: pointer;
 }
