@@ -14,3 +14,7 @@
     opacity: 0.8;
     cursor: pointer;
 }
+
+.p-5 bg-dark text-white {
+    height: 50%;
+}
