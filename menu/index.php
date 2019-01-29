@@ -86,9 +86,10 @@ function kuvaMenu($tyyp)
 <body>
 
 <div class="container">
-    <h1>Söökla menüü</h1>
+    <h1>Söökla menüü:</h1>
+    <br><br>
     <div class="row">
-        <div class="col-6">
+        <div class="col-8">
             <div class="card">
                 <h1 class="card-header">PRAED</h1>
                 <ul class="list-group">
@@ -100,7 +101,7 @@ function kuvaMenu($tyyp)
                 </ul>
             </div>
         </div>
-        <div class="col-7">
+        <div class="col-8">
             <div class="card">
                 <h1 class="card-header">SUPID</h1>
                 <ul class="list-group">
@@ -114,7 +115,7 @@ function kuvaMenu($tyyp)
         </div>
     </div>
     <div class="row">
-        <div class="col-6">
+        <div class="col-8">
             <div class="card">
                 <h1 class="card-header">MAGUSTOIDUD</h1>
                 <ul class="list-group">
@@ -124,7 +125,7 @@ function kuvaMenu($tyyp)
                 </ul>
             </div>
         </div>
-        <div class="col-6">
+        <div class="col-8">
             <div class="card">
                 <h1 class="card-header">JOOGID</h1>
                 <ul class="list-group">
