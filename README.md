@@ -1,9 +1,6 @@
-# Programeerimisvahendite kasutamine 
-## Kasutatav Tarkvara
-[PHP Stromi tarkvarale](https://www.jetbrains.com/phpstorm/)
+# Programmeerimisvahendite kasutamine
+## Kasutatav tarkvara
 
-[Git tarkvarale](https://git-scm.com/) 
-
-[readme inglise keelne](https://github.com/stevenkore/VS18_S/blob/master/README.en.md)
-
-[ikt.khk.ee_domeeni lahendus ](http://stevenkore.ikt.khk.ee/pvk/portfolio/)
+[PHP Storm](https://www.jetbrains.com/phpstorm/specials/phpstorm/phpstorm.html?gclid=EAIaIQobChMIj4OhrtLx3gIVDYuyCh20LQU8EAAYASAAEgKPKvD_BwE&gclsrc=aw.ds)
+[Git tarkvara](https://git-scm.com/downloads)
+[README Eng versioon](https://github.com/TanelIsmael/vs18_t/blob/master/README.en.md)

@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: steven.kore
- * Date: 07.02.2019
- * Time: 9:51
- */
 require_once 'lib/fnk.php';
 require_once 'menus/menu.php';
 // lehe sisu
